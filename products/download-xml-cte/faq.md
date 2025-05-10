@@ -1,7 +1,7 @@
 # Dúvidas Frequentes
 
 **1. Como funciona a compra dessa funcionalidade?**
-Ao comprar você recebe os códigos fontes em prw juntamente com manual para implantação.
+Ao comprar, você recebe os códigos fontes em prw juntamente com manual para implantação.
 
 **2. Os XMLs baixados pela funcionalidade possuem validade jurídica?** <br>
 Sim, o XML de CT-e baixado possuí validade jurídica, pois são baixados diretamente da Sefaz.
