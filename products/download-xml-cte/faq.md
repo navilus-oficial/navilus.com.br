@@ -18,7 +18,7 @@ _Exemplo_
 
 _Nesses casos você deve entrar em contato com a Sefaz de seu estado para que o serviço seja normalizado_
 
-**5 – A Sefaz fornece algum lugar para verificar a disponibilidade dos serviços de download de NF-e ou CT-e?** <br>
+**5 – A Sefaz fornece algum lugar para verificar a disponibilidade dos serviços de download de CT-e?** <br>
 Não, até o momento não existe um local onde possa ver a disponibilidade desses serviços, desse modo as vezes os serviços podem estar inoperantes e não ter por onde monitorar.
 
 **6 – Aparece o seguinte erro no console ao tentar efetuar o download:”Value=“A WSDL exception occurred at0:0 WsdlParser Exception :Error sending SOAP message:Peer certificate cannot be authenticated with given CA certificates”** <br>
